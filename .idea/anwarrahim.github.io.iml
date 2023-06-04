@@ -5,5 +5,9 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="IBM_Data_Science" />
+    <orderEntry type="module" module-name="practice_python" />
+    <orderEntry type="module" module-name="Course_5" />
+    <orderEntry type="module" module-name="Extracting Stock Data Using a Python Library" />
+    <orderEntry type="module" module-name="yfinance_apple" />
   </component>
 </module>

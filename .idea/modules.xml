@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../IBM_Data_Science/Course_5/.idea/Course_5.iml" filepath="$PROJECT_DIR$/../IBM_Data_Science/Course_5/.idea/Course_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../IBM_Data_Science/Course_5/Extracting Stock Data Using a Python Library/.idea/Extracting Stock Data Using a Python Library.iml" filepath="$PROJECT_DIR$/../IBM_Data_Science/Course_5/Extracting Stock Data Using a Python Library/.idea/Extracting Stock Data Using a Python Library.iml" />
       <module fileurl="file://$PROJECT_DIR$/../IBM_Data_Science/.idea/IBM_Data_Science.iml" filepath="$PROJECT_DIR$/../IBM_Data_Science/.idea/IBM_Data_Science.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/anwarrahim.github.io.iml" filepath="$PROJECT_DIR$/.idea/anwarrahim.github.io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../practice_python/.idea/practice_python.iml" filepath="$PROJECT_DIR$/../practice_python/.idea/practice_python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../yfinance_apple/.idea/yfinance_apple.iml" filepath="$PROJECT_DIR$/../yfinance_apple/.idea/yfinance_apple.iml" />
     </modules>
   </component>
 </project>
