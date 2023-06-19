@@ -1183,7 +1183,7 @@ width: 40%;
 		}
 
 		body.is-preload #bg:before {
-			background-color: #ffffff;
+			background-color: #000000;
 		}
 
 /* Wrapper */
